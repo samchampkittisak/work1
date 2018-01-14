@@ -1,12 +1,31 @@
-# work1
- 
-##jumanji
-###part1
-* time 1
-* time 2
-###part2 
-* time 1
-* time 2
+# Homework
 
-##web online
-[Link MD](https://www.movie2free.com/jumanji-welcome-jungle-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81-%E0%B8%9A%E0%B8%B8%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B1/)
+## คำสั่ง echo "# Homework" >> README.md
+* เป็นการเพิ่มข้อความ Homework ลงในไฟล์ README.md
+
+## คำสั่ง git init
+* เป็นการบอกว่าจะให้โฟลเดอร์นี้เริ่มใช้งาน github
+
+## คำสั่ง git add README.md
+* เป็นการบันทึกการเปลี่ยนแปลงไฟล์
+
+## คำสั่ง git status
+* เป็นการบอกสถานะการใช้งาน git
+
+## คำสั่ง git config --global user.name "samchamp"
+* เป็นการระบุตัวตนของเราเพื่อรู้ชื่อว่าใครเป็นคนเเก้ไขไฟล์
+
+## คำสั่ง git config --global user.email kitisakchamp1@gmail.com
+* เป็นการระบุตัวตนของเราเพื่อรู้ email ว่า email ใครเป็นคนเเก้ไขไฟล์
+
+## คำสั่ง git commit -m "first commit"
+* เป็นการผูกหมัดไฟล์ทั้งหมดในสถานะของเเต่ละไฟล์ไปเซฟไว้ใน Git เป็นภาพรวม
+
+## คำสั่ง git remote add origin https://github.com/samchampkittisak/work1.git
+* คือการเพิ่มข้อมูลในระยะไกลสำหรับ push Git ไปยัง Server
+
+## คำสั่ง git remote -v
+* คือยกเลิก push Git ไปยัง Server
+
+## git push -u origin master
+* คือการส่งการเปลี่ยนแปลงเหล่านี้ ไปยัง remote repository 
